@@ -43,7 +43,7 @@ sağlar.
 3.  Terminal veya Komut Satırında çalıştırın:
 
 ``` bash
-python parking_system.py
+python parking.py
 ```
 
 ------------------------------------------------------------------------
